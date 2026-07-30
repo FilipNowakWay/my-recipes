@@ -8,6 +8,8 @@ This project is a simple, static recipe website designed to practice foundationa
 
 ## 🚀 Live Demo
 
+[HERE!](https://filipnowakway.github.io/my-recipes/)
+
 ---
 
 ## 🛠️ Built With
